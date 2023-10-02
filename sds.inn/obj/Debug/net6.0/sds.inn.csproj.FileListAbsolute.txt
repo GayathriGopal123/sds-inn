@@ -1,0 +1,15 @@
+D:\Practise_Projects\sds-inn\sds.inn\bin\Debug\net6.0\sds.inn.exe
+D:\Practise_Projects\sds-inn\sds.inn\bin\Debug\net6.0\sds.inn.deps.json
+D:\Practise_Projects\sds-inn\sds.inn\bin\Debug\net6.0\sds.inn.runtimeconfig.json
+D:\Practise_Projects\sds-inn\sds.inn\bin\Debug\net6.0\sds.inn.dll
+D:\Practise_Projects\sds-inn\sds.inn\bin\Debug\net6.0\sds.inn.pdb
+D:\Practise_Projects\sds-inn\sds.inn\obj\Debug\net6.0\sds.inn.csproj.AssemblyReference.cache
+D:\Practise_Projects\sds-inn\sds.inn\obj\Debug\net6.0\sds.inn.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practise_Projects\sds-inn\sds.inn\obj\Debug\net6.0\sds.inn.AssemblyInfoInputs.cache
+D:\Practise_Projects\sds-inn\sds.inn\obj\Debug\net6.0\sds.inn.AssemblyInfo.cs
+D:\Practise_Projects\sds-inn\sds.inn\obj\Debug\net6.0\sds.inn.csproj.CoreCompileInputs.cache
+D:\Practise_Projects\sds-inn\sds.inn\obj\Debug\net6.0\sds.inn.dll
+D:\Practise_Projects\sds-inn\sds.inn\obj\Debug\net6.0\refint\sds.inn.dll
+D:\Practise_Projects\sds-inn\sds.inn\obj\Debug\net6.0\sds.inn.pdb
+D:\Practise_Projects\sds-inn\sds.inn\obj\Debug\net6.0\sds.inn.genruntimeconfig.cache
+D:\Practise_Projects\sds-inn\sds.inn\obj\Debug\net6.0\ref\sds.inn.dll
